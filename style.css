@@ -1,0 +1,75 @@
+body{
+    background-color: grey;
+    text-align: justify;
+}
+fieldset{
+    background-color: lightblue;
+    height: 2250px;
+    width: 960px;
+    
+    
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+    border-bottom: 6px darkblue double;
+}
+h2{
+    font-weight: bold;
+    border-bottom: 2px darkblue dotted;
+    border-top: 2px solid darkblue;
+    margin-right: 400px;
+    color:darkblue
+}
+hr{
+    color:darkblue
+}
+.ul{
+    list-style-image:url(kukac.png) ;
+    margin-left: 70px ;
+    
+}
+.Kep1{
+    width: 200px;
+    height: 150px;
+    border: 5px solid darkblue;
+    float: right;
+    margin-left: 20px ;
+}
+.Kep2{
+    width: 200px;
+    height: 150px;
+    border: 5px solid darkblue;
+    float: right;
+    margin-left: 20px ;
+}
+.Neumann1{
+    width: 150px;
+    height: 170px;
+    border: 5px solid darkblue;
+    float: left;
+    margin-right: 10px;
+}
+.Neumann2{
+    width: 150px;
+    height: 200px;
+    border: 5px solid darkblue;
+    float: right;
+    margin-left: 20px ;
+}
+.Alan{
+    width: 150px;
+    height: 170px;
+    border: 5px solid darkblue;
+    float: left;
+    margin-right: 10px;
+}
+.forras{
+    margin-left: 50px;
+    font-style: italic;
+}
+
+a:hover{
+    color: darkblue;
+}
+
